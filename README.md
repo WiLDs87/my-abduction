@@ -5,6 +5,7 @@ HTML5
 vue.js
 vuetify
 pwa
-indexedDB
+indexedDB API
+IndexedDB Promised
 cache API
 
