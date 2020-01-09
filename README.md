@@ -3,7 +3,6 @@ If you are having trouble being abducted by aliens, this app will help you in ev
 
 - [x] [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [x] [vue.js](https://vuejs.org/)
-- [x] [vuetify](https://vuetifyjs.com/)
 - [x] [pwa](https://developers.google.com/web/progressive-web-apps/)
 - [x] [indexedDB API](https://www.w3.org/TR/IndexedDB-2/)
 - [x] [IndexedDB Promised](https://github.com/jakearchibald/idb)
