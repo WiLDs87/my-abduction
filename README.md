@@ -8,3 +8,4 @@ If you are having trouble being abducted by aliens, this app will help you in ev
 - [x] [IndexedDB Promised](https://github.com/jakearchibald/idb)
 - [x] [cache API](https://developer.mozilla.org/pt-BR/docs/Web/API/Cache)
 
+:P
